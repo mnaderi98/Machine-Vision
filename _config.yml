@@ -8,7 +8,7 @@ description: |
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/machin-vision" # the subpath of your site, e.g. /blog/
-url: "http://mnaderi98.github.io/Machine-Vision" # the base hostname & protocol for your site
+url: "http://mnaderi98.github.io/Machine-Vision/" # the base hostname & protocol for your site
 syllabus: http://mnaderi98.github.io/Machine-Vision/syllabus/
 githubdir: 
 
