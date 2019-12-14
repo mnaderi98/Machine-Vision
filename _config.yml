@@ -1,19 +1,19 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: Some Course Title
-course_description: Course description.
+course_name: machin vision
+course_description: In this course, we aim to introduce students to machin vision.
 course_semester: "Fall 2019"
-description: 
-    Instructor: Zhila Sadati
+description: |
+    Instructor: Dr.Mohammad Reza Mohammadi
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
-baseurl: "/course_template" # the subpath of your site, e.g. /blog/
-url: "http://sauleh.github.io/course_template" # the base hostname & protocol for your site
-syllabus: http://sauleh.github.io/course_template/syllabus/
+baseurl: "/machin-vision" # the subpath of your site, e.g. /blog/
+url: "http://mnaderi98.github.io/machin-vision" # the base hostname & protocol for your site
+syllabus: http://mnaderi98.github.io/machin-vision/syllabus/
 githubdir: 
 
 # Author/user information
-email: instructor-first-name@iust.ac.ir
+email: mmohammadi@iust.ac.ir
 twitter_username: broken_twitter 
 github_username:  broken_github
 authorurl: "http://borken-url.github.io"
