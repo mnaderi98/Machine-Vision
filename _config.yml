@@ -1,15 +1,15 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: machin vision
-course_description: In this course, we aim to introduce students to machin vision.
+course_name: machine vision
+course_description: In this course, we aim to introduce students to machine vision.
 course_semester: "Fall 2019"
 description: |
     Instructor: Dr.Mohammad Reza Mohammadi
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/machin-vision" # the subpath of your site, e.g. /blog/
-url: "http://mnaderi98.github.io/Machin-Vision" # the base hostname & protocol for your site
-syllabus: http://mnaderi98.github.io/Machin-Vision/syllabus/
+url: "http://mnaderi98.github.io/Machine-Vision" # the base hostname & protocol for your site
+syllabus: http://mnaderi98.github.io/Machine-Vision/syllabus/
 githubdir: 
 
 # Author/user information
