@@ -4,7 +4,7 @@ course_name: machine vision
 course_description: In this course, we aim to introduce students to machine vision.
 course_semester: "Fall 2019"
 description: |
-    Instructor: Dr.Mohammad Reza Mohammadi
+Instructor: Dr.Mohammad Reza Mohammadi
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/Machin-Vision/" # the subpath of your site, e.g. /blog/
