@@ -101,8 +101,10 @@ Each student will complete a computer vision application project in the semester
 <h1>Assessment :</h1>
 <p>
 <big>
-- homeworks : 10%
-- projects : 30%
+- homeworks : 20%
+
+- projects : 20%
+
 - exams : 60%
 </big>
 </p>
