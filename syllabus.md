@@ -44,19 +44,65 @@ Students who successfully complete this course will be able to:
 </p>
 <h1>List of topics :</h1>
 
-1. Introduction: Computer Vision Definition and Image Processing and Their Differences - History and Applications of Computer Vision
-2. Basic Principles of Digital Imaging: Elements of Visual Understanding - Light and Electromagnetic Spectrum - Image Sense and Imaging -
-Sampling and Multiplication - Relationships between Image Points - Linear and Nonlinear Operations - Principles and Color Models -
-Quasi-colored images
-3. Image Editing: Gray Level Conversions - Histogram Correction - Location Filter - Smoothing and Sharpening
-4. Morphological operations: binary mathematical morphology - operators of corrosion, expansion, opening, and closing - Basic morphological algorithms
-5. Image Segmentation: Segmentation Based on Edge Detection, Thresholding, and Area Growth - Determination
-6. Presentation: Providing Objects with Chain Codes, Views, and Skeletons - Border Descriptors - Area Descriptors
-7. Object Identification: Decision-Making Methods such as Statistical Classification and Neural Networking.
-Required Software : MatLab, LabView
-Suggested Projects : 
+<h2>1. Introduction:</h2> 
+<p>
+<big>
+Computer Vision Definition and Image Processing and Their Differences - History and Applications of Computer Vision
+</big>
+</p>
+<h2>2. Basic Principles of Digital Imaging: </h2>
+<p>
+<big>
+Elements of Visual Understanding - Light and Electromagnetic Spectrum - Image Sense and Imaging - Sampling and Multiplication - Relationships between Image Points - Linear and Nonlinear Operations - Principles and Color Models - Quasi-colored images
+</big>
+</p>
+<h2>3. Image Editing: </h2>
+<p>
+<big>
+Gray Level Conversions - Histogram Correction - Location Filter - Smoothing and Sharpening
+</big>
+</p>
+<h2>4. Morphological operations: </h2>
+<p>
+<big>
+binary mathematical morphology - operators of corrosion, expansion, opening, and closing - Basic morphological algorithms
+</big>
+</p>
+<h2>5. Image Segmentation: </h2>
+<p>
+<big>
+Segmentation Based on Edge Detection, Thresholding, and Area Growth - Determination
+</big>
+</p>
+<h2>6. Presentation: </h2>
+<p>
+<big>
+Providing Objects with Chain Codes, Views, and Skeletons - Border Descriptors - Area Descriptors
+</big>
+</p>
+<h2>7. Object Identification: </h2>
+<p>
+<big>
+Decision-Making Methods such as Statistical Classification and Neural Networking.
+</big>
+</p>
+<h1>Required Software : </h1>
+<p>
+<big>
+MatLab, LabView
+</big>
+</p>
+<h1>Suggested Projects : </h1>
+<p>
+<big>
 Each student will complete a computer vision application project in the semester.
-Assessment :
+</big>
+</p>
+<h1>Assessment :</h1>
+<p>
+<big>
 - homeworks : 10%
 - projects : 30%
 - exams : 60%
+</big>
+</p>
