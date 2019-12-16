@@ -4,28 +4,46 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-Please find the syllbaus [here](/static_files/materials/Syllabus.pdf).
-Foundations of Computer Vision:
+<h1>Foundations of Computer Vision:</h1>
+
+<p>
+<big>
 specialized course of Computer Engineering , 3 credits
 program : Undergraduate level
 pre-requisite courses : Principles of Computational intelligence
-reference book : 
+</big>
+</p>
+
+<h1>reference book :</h1> 
+<p>
+<big>
 [1] R.C. Gonzalez and R.E. Woods, Digital Image Processing. 3rd ed., Prentice-Hall, 2008.
 [2] R. Jain, R. Kasturi, B.G. Schunck, Machine Vision. McGraw-Hill, 1995.
-Course goals :
+</big>
+</p>
+<h1>Course goals :</h1>
+<p>
+<big>
 The purpose of this lesson is to gain a basic understanding of computer vision and image
 analysis for 2D computer vision.
 The lesson will focus on problem solving based on this technology and industrial
 applications. Sample issues of industry in format
 Practical projects during the course will be reviewed and resolved by students.
-Lesson results :
+</big>
+</p>
+<h1>Lesson results :</h1>
+<p>
+<big>
 Students who successfully complete this course will be able to:
 1. Processing and analysis of gray level images to understand the scene
 2. Binary image processing for simple problem solving
 3. Getting to know color and color images and using them to solve visual problems
 4. Solving two-dimensional solvable industrial problems using vision
 5. Scene analysis for robot vision
-List of topics :
+</big>
+</p>
+<h1>List of topics :</h1>
+
 1. Introduction: Computer Vision Definition and Image Processing and Their Differences - History and Applications of Computer Vision
 2. Basic Principles of Digital Imaging: Elements of Visual Understanding - Light and Electromagnetic Spectrum - Image Sense and Imaging -
 Sampling and Multiplication - Relationships between Image Points - Linear and Nonlinear Operations - Principles and Color Models -
