@@ -13,8 +13,10 @@ reference book :
 [1] R.C. Gonzalez and R.E. Woods, Digital Image Processing. 3rd ed., Prentice-Hall, 2008.
 [2] R. Jain, R. Kasturi, B.G. Schunck, Machine Vision. McGraw-Hill, 1995.
 Course goals :
-The purpose of this lesson is to gain a basic understanding of computer vision and image analysis for 2D computer vision.
-The lesson will focus on problem solving based on this technology and industrial applications. Sample issues of industry in format
+The purpose of this lesson is to gain a basic understanding of computer vision and image
+analysis for 2D computer vision.
+The lesson will focus on problem solving based on this technology and industrial
+applications. Sample issues of industry in format
 Practical projects during the course will be reviewed and resolved by students.
 Lesson results :
 Students who successfully complete this course will be able to:
