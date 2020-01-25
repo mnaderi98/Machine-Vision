@@ -17,8 +17,11 @@ pre-requisite courses : Principles of Computational intelligence
 <h1>reference book :</h1> 
 <p>
 <big>
-[1] R.C. Gonzalez and R.E. Woods, Digital Image Processing. 3rd ed., Prentice-Hall, 2008.
-[2] R. Jain, R. Kasturi, B.G. Schunck, Machine Vision. McGraw-Hill, 1995.
+[1] A. Kaehler and G. Bradski, “Learning OpenCV 3”.
+[2] J. Minichino and J. Howse “Learning OpenCV 3 with Python”.
+[3] R. Szeliski, “Computer vision: algorithms and applications”.
+[4] R. C. Gonzalez and R. E. Woods, “Digital Image Processing (4th Edition)”.
+
 </big>
 </p>
 <h1>Course goals :</h1>
@@ -101,10 +104,14 @@ Each student will complete a computer vision application project in the semester
 <h1>Assessment :</h1>
 <p>
 <big>
-- homeworks : 20%
+- projects : 15%
 
-- projects : 20%
+- quiz : 10%
 
-- exams : 60%
+- Practice : 25%
+
+- midterm exam : 25%
+
+- final exams : 25%
 </big>
 </p>

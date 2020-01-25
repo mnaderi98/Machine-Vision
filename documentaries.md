@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course Websites
-permalink: /course_websites/
+title: Documentaries
+permalink: /documentaries/
 ---
 
 | # |       Course Name                      |   Instructor    | Student Name    | Website URL          |
