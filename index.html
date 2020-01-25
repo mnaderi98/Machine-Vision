@@ -1,71 +1,79 @@
----
-layout: default
-comments: true
----
+<html lang="en" >
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<div class="home">
+    <head>
+      <style>
+        a:link, a:visited {
+        background-color: #649bec;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+      }
+      
+      a:hover, a:active {
+        background-color: rgb(60, 133, 243);
+      }
 
-    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+      img {
+        width: 100%;
+      }
+      body, html {
+      height: 100%;
+      }
+      * {
+      box-sizing: border-box;
+      }
+      .bg-image {
+      /* The image used */
+      background-image: url('https://www.folio3.ai/wp-content/uploads/2020/01/best-r-machine-learning-packages-e1578305136418-690x500.jpg');
+      /* Add the blur effect */
+      filter: blur(3px);
+      -webkit-filter: blur(3px);
+      /* Full height */
+      height: 100%;
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      }
+      /* Position text in the middle of the page/image */
+      .bg-text {
+      background-color: rgb(0,0,0); /* Fallback color */
+      background-color: rgba(0,0,0,0); /* Black w/opacity/see-through */
+      color: rgb(247, 246, 252);
+      font-weight: bold;
+      border: 0px solid #8597e7;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 2;
+      width: 100%;
+      padding: 20px;
+      text-align: center;
+      }
+      </style>
 
-    <div class="announcement-box" style="margin-top:30px">
-        <h2>Announcements</h2>
-        {% include announcements.html %}
-    </div>
+    </head>
+    <body>
+    
+        <div class="bg-image"></div>
 
-    <br />
+        <div class="bg-text">
+        <h1>Software engineering</h1>
+        
+        <br></br>
+        <a href="http://mnaderi98.github.io/Machine-Vision/home">Home</a>
+        <a href="http://mnaderi98.github.io/Machine-Vision/syllabus/">Syllabus</a>
+        <a href="https://mnaderi98.github.io/Machine-Vision/assignments/">Assignments</a>
+        <a href="http://mnaderi98.github.io/Machine-Vision/documentaries/">Documentaries</a>
+        <a href="http://mnaderi98.github.io/Machine-Vision/course-materials/">Course Materials</a>
 
-    <h2>Course Description</h2>
-    <p>{{ site.course_description }}</p>
-    <p>{{ site.message }}</p>
-
-    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
-    <h2>Previous Offerings</h2>
-    <ul class="previous-offerings">
-    {% for offer in site.data.previous_offering.offerings %}
-    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
-    {% endfor %}
-    </ul>
-    {% endif %}
-
-    <br>
-    <div>
-        <div style="width:30%; float: left">
-            <h2>Course instructor</h2>
-            <div class="image--cover-container">
-                <img src="{{site.data.people.instructor.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                <p>{{site.data.people.instructor.name}}</p>
-            </div>
+        <br>
         </div>
 
-        <div style="width:70%; float: left">
-            <div class="profile-pic-gallary ">
-                <h2>Teaching Assistants</h2>
-                {% for ta in site.data.people.teaching_assistants %}
-                <div class="image--cover-container">
-                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
-                    <p>{{ta.name}}</p>
-                </div>
-                {% endfor %}
-            </div>
-        </div>
-    </div>
+    </body>
 
-    {% if page.comments %} 
-        <!-- <div id="disqus_thread"></div>
-        <script>
-            var disqus_config = function () {
-                this.page.url = "http://sauleh.github.io/ds98";  
-                this.page.identifier = "main";
-            };
-
-            (function() { // DON'T EDIT BELOW THIS LINE
-            var d = document, s = d.createElement('script');
-            s.src = 'https://ds98.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            (d.head || d.body).appendChild(s);
-            })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-        </noscript> -->
-    {% endif %}
-</div>
+</html>
