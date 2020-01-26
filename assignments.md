@@ -9,7 +9,7 @@ permalink: /assignments/
 <h2>با سلام</h2>
 <h2>به پیوست موارد لازم به تمرین سری 1 ارسال می شود.</h2>
 <h2>مهلت تحویل تمرین سری یک تا ساعت 23 و 59 دقیقه و 59 ثانیه روز جمعه 12 مهر است.</h2>
-<a href="https://github.com/mnaderi98/Machine-Vision/blob/master/files/HW1%20(1).zip">Download</a>
+<a href="files/HW1 (1).zip">Download</a>
 <br>
 <ul id="archive">
 {% for asg in site.assignments reversed %}
