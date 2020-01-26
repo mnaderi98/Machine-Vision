@@ -18,10 +18,12 @@ pre-requisite courses : Principles of Computational intelligence
 <p>
 <big>
 [1] A. Kaehler and G. Bradski, “Learning OpenCV 3”.
-[2] J. Minichino and J. Howse “Learning OpenCV 3 with Python”.
-[3] R. Szeliski, “Computer vision: algorithms and applications”.
+<br>
+[2] J. Minichino and J. Howse “Learning OpenCV 3 with Python”. 
+<br>
+[3] R. Szeliski, “Computer vision: algorithms and applications”. 
+<br>
 [4] R. C. Gonzalez and R. E. Woods, “Digital Image Processing (4th Edition)”.
-
 </big>
 </p>
 <h1>Course goals :</h1>
@@ -37,12 +39,12 @@ Practical projects during the course will be reviewed and resolved by students.
 <h1>Lesson results :</h1>
 <p>
 <big>
-Students who successfully complete this course will be able to:
-1. Processing and analysis of gray level images to understand the scene
-2. Binary image processing for simple problem solving
-3. Getting to know color and color images and using them to solve visual problems
-4. Solving two-dimensional solvable industrial problems using vision
-5. Scene analysis for robot vision
+Students who successfully complete this course will be able to:<br>
+1. Processing and analysis of gray level images to understand the scene<br>
+2. Binary image processing for simple problem solving<br>
+3. Getting to know color and color images and using them to solve visual problems<br>
+4. Solving two-dimensional solvable industrial problems using vision<br>
+5. Scene analysis for robot vision<br>
 </big>
 </p>
 <h1>List of topics :</h1>
@@ -104,14 +106,14 @@ Each student will complete a computer vision application project in the semester
 <h1>Assessment :</h1>
 <p>
 <big>
-- projects : 15%
+- projects : 15%<br>
 
-- quiz : 10%
+- quiz : 10%<br>
 
-- Practice : 25%
+- Practice : 25%<br>
 
-- midterm exam : 25%
+- midterm exam : 25%<br>
 
-- final exams : 25%
+- final exams : 25%<br>
 </big>
 </p>
