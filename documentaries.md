@@ -18,3 +18,6 @@ permalink: /documentaries/
 | ۱۰ |اسلایدهای مورفولوژی |    استاد     | اسلایدهای مورفولوژی| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/10-Morphology.pptx) |
 | ۱۱ |اسلایدهای استخراج ویژگی |    استاد     | اسلایدهای استخراج ویژگی | [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/11-FeatureExtraction.pptx) |
 | ۱۲ |اسلایدهای یادگیری ماشین |    استاد     | اسلایدهای یادگیری ماشین| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/12-MachineLearning.pptx) |
+| ۱۳ |اسلایدهای تشخیص اشیاء |    استاد     | اسلایدهای تشخیص اشیاء| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/13-ObjectDetection.pptx) |
+| ۱۴ |اسلایدهای ره گیری اشیاء |    استاد     | اسلایدهای ره گیری اشیاء| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/14-ObjectTracking.pptx) |
+| ۱۵ |امتحان |    استاد     | دانشجویانی که در امتحان میانترم نمره مطلوبی کسب نکرده اند، می توانند در روز امتحانی پایانی در امتحان مجدد میانترم نیز شرکت کنند (1 ساعت زمان اضافه و تعدادی سوال از مباحث میانترم برای ایشان قرار داده خواهد شد).دانشجویانی که تمایل دارند در امتحان مجدد شرکت داشته باشند، لازم است از طریق ایمیل حداثر تا روز جمعه به بنده اطلاع دهند (از نمره امتحان نخست آنها صرف نظر خواهد شد)|  |
