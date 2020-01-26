@@ -15,6 +15,8 @@ permalink: /syllabus/
 </big>
 </big>
 </bold>
+<br>
+<br>
 <h1>Foundations of Computer Vision:</h1>
 
 <p>
