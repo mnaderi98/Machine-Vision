@@ -2,8 +2,16 @@ instructor:
   name: Dr.Mohammad Reza Mohammadi
   profile_pic: /_images/bio_picture.jpg
 
-#teaching_assistants:
-#  - name: Amir Mohammad Ehsandar
-#    profile_pic: /_images/avatar.png    
+teaching_assistants:
+  - name: Zahra Sadeghi Adl
+    profile_pic: /_images/avatar.png    
+  - name: Soheil Rastegar
+    profile_pic: /_images/avatar.png 
+  - name: banafsheh karimian
+    profile_pic: /_images/avatar.png 
+  - name: Maryam Sadat Hashemi
+    profile_pic: /_images/avatar.png 
+  - name: Amir Khakpour
+    profile_pic: /_images/avatar.png 
 
     
