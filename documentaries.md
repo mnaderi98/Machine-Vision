@@ -13,3 +13,4 @@ permalink: /documentaries/
 | ۵ |اسلایدهای پردازش تصویر در حوزه فرکانس |    استاد     | اسلایدهای پردازش تصویر در حوزه فرکانس| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/4-FrequencyFiltering.pptx) |
 | ۶ |اسلایدهای تشخیص شکل |    استاد     | اسلایدهای تشخیص شکل| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/6-ShapeExtraction.pptx) |
 | ۷ |اسلایدهای فضاهای رنگی |    استاد     | اسلایدهای فضاهای رنگی| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/7-ColorSpaces.pptx) | 
+| ۸ |نمونه سوالات امتحانی |    استاد     | نمونه سوالات ترم گذشته پیوست شده است.البته توجه داشته باشید که مباحث این ترم مقداری متفاوت هستند (از جمله تناظر و انطباق تصویر اضافه شده است و عملگرهای مورفولوژی مثل گسترش و فرسایش و Hit-or-Miss و کانتور فعال کم و بازیابی تصویر به کمک فیلتر معکوس و فیلتر وینر کم شده است)| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/971.pdf) |
