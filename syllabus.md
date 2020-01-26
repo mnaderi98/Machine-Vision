@@ -10,7 +10,7 @@ permalink: /syllabus/
 <big>
 <big>
 <big>
-<a href="https://github.com/mnaderi98/Machine-Vision/blob/master/files/Syllabus.pdf">Download Syllabus PDF file</a>
+<a href="https://github.com/mnaderi98/Machine-Vision/raw/master/files/Syllabus.pdf">Download Syllabus PDF file</a>
 </big>
 </big>
 </big>
