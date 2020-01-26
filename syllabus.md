@@ -3,7 +3,17 @@ layout: page
 title: Syllabus
 permalink: /syllabus/
 ---
+<p>
+<br>
+</p>
+<bold>
+<big>
+<big>
+<big>
 
+</big>
+</big>
+</big>
 <h1>Foundations of Computer Vision:</h1>
 
 <p>
