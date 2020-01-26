@@ -12,4 +12,4 @@ permalink: /documentaries/
 | ۴ |اسلایدهای پردازش تصویر در حوزه مکان |    استاد     | اسلایدهای پردازش تصویر در حوزه مکان| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/3-SpatialFiltering.pptx) |
 | ۵ |اسلایدهای پردازش تصویر در حوزه فرکانس |    استاد     | اسلایدهای پردازش تصویر در حوزه فرکانس| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/4-FrequencyFiltering.pptx) |
 | ۶ |اسلایدهای تشخیص شکل |    استاد     | اسلایدهای تشخیص شکل| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/6-ShapeExtraction.pptx) |
-| ۷ |اسلایدهای فضاهای رنگی |    استاد     | اسلایدهای فضاهای رنگی| [https://github.com/mnaderi98/Machine-Vision/blob/master/files/7-ColorSpaces.pptx]
+| ۷ |اسلایدهای فضاهای رنگی |    استاد     | اسلایدهای فضاهای رنگی| [link](https://github.com/mnaderi98/Machine-Vision/blob/master/files/7-ColorSpaces.pptx) | 
