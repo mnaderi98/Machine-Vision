@@ -10,10 +10,11 @@ permalink: /syllabus/
 <big>
 <big>
 <big>
-
+<a href="https://github.com/mnaderi98/Machine-Vision/blob/master/files/Syllabus.pdf">Download Syllabus PDF file</a>
 </big>
 </big>
 </big>
+</bold>
 <h1>Foundations of Computer Vision:</h1>
 
 <p>
