@@ -10,3 +10,13 @@ permalink: /course-materials/
 * [Reference Web 1](https://www.pyimagesearch.com/)
 * [Reference Web 2](https://www.learnopencv.com/)
 * [Download Open Source Computer Vision Library](https://github.com/opencv/opencv/releases)
+
+<div style="width:100%; float: left">
+    <div class="resource-pic-gallary">
+<h2>reference book :</h2>
+{% for resource in site.data.resources.main_resources %}
+<div class="resource--image-cover-container">
+            <img src="{{ resource.pic | prepend: site.baseurl }}" class="resource--image-cover">
+            <p><a href="{{resource.address}}">{{resource.name}}</a></p>
+        </div>
+        {% endfor %}

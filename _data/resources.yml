@@ -1,0 +1,13 @@
+main_resources:
+  - name: A. Kaehler and G. Bradski, “Learning OpenCV 3”
+    pic: /_images/material/opencv1.png
+    address: http://read.pudn.com/downloads808/ebook/3183283/Learning%20OpenCV%203.pdf
+  - name: J. Minichino and J. Howse “Learning OpenCV 3 with Python”
+    pic: /_images/material/opencv2.png
+    address: http://dx.mang.heiman.pw/u7Dxde36k4pHC/
+  - name: R. Szeliski, “Computer vision algorithms and applications”
+    pic: /_images/material/CVAA.png
+    address: http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf
+  - name: R. C. Gonzalez and R. E. Woods, “Digital Image Processing (4th Edition)”
+    pic: /_images/material/DIP.png
+    address: http://www.imageprocessingplace.com/downloads_V3/dip4e_downloads/dip4e_sample_book_material/dip4e_detailed_TOC.pdf
