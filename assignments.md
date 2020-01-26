@@ -4,6 +4,12 @@ title: Assignments
 permalink: /assignments/
 ---
 
+<h1>تمرین سری 1
+</h1>
+<h2>با سلام</h2>
+<h2>به پیوست موارد لازم به تمرین سری 1 ارسال می شود.</h2>
+<h2>مهلت تحویل تمرین سری یک تا ساعت 23 و 59 دقیقه و 59 ثانیه روز جمعه 12 مهر است.</h2>
+
 <ul id="archive">
 {% for asg in site.assignments reversed %}
       <li class="archiveposturl" style="background: transparent">
@@ -17,3 +23,4 @@ permalink: /assignments/
       </li>
 {% endfor %}
 </ul>
+
